@@ -1,0 +1,8 @@
+api\utilities\ExtentReportmanager.class
+api\payload\User.class
+api\utilities\Data_Providers.class
+api\utilities\XLUtilities.class
+api\endpoints\UserModule_Endpoints.class
+api\endpoints\Routes.class
+api\testcases\UserTestcase.class
+api\testcases\UserTestDDT.class

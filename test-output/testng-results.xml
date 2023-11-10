@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-10T18:13:38 IST" name="PetStore Suite" finished-at="2023-11-10T18:13:46 IST" duration-ms="8617">
+    <groups>
+    </groups>
+    <test started-at="2023-11-10T18:13:38 IST" name="Pet APi test" finished-at="2023-11-10T18:13:46 IST" duration-ms="8617">
+      <class name="api.testcases.UserTestcase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:38 IST" name="setup" finished-at="2023-11-10T18:13:39 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="test_Post_User()[pri:1, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:39 IST" name="test_Post_User" finished-at="2023-11-10T18:13:41 IST" duration-ms="2849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Post_User -->
+        <test-method signature="test_User_By_Name()[pri:2, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:41 IST" name="test_User_By_Name" finished-at="2023-11-10T18:13:43 IST" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_User_By_Name -->
+        <test-method signature="test_Post_User_after_Update()[pri:3, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:43 IST" name="test_Post_User_after_Update" finished-at="2023-11-10T18:13:44 IST" duration-ms="1202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Post_User_after_Update -->
+        <test-method signature="test_Update_By_username()[pri:4, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:44 IST" name="test_Update_By_username" finished-at="2023-11-10T18:13:45 IST" duration-ms="1197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Update_By_username -->
+        <test-method signature="test_Delete_User_By_Username()[pri:5, instance:api.testcases.UserTestcase@368247b9]" started-at="2023-11-10T18:13:45 IST" name="test_Delete_User_By_Username" finished-at="2023-11-10T18:13:46 IST" duration-ms="1209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Delete_User_By_Username -->
+      </class> <!-- api.testcases.UserTestcase -->
+    </test> <!-- Pet APi test -->
+  </suite> <!-- PetStore Suite -->
+</testng-results>

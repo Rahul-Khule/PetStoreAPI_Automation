@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="PetStore Suite">
+<listeners>
+	<listener class-name="api.utilities.ExtentReportmanager"></listener>
+</listeners>
+  <test  name="Pet APi test">
+    <classes>
+      <class name="api.testcases.UserTestcase"/>
+     <!--   <class name="api.testcases.UserTestDDT"/>-->
+    </classes>
+  </test> <!-- Pet APi test -->
+</suite> <!-- PetStore Suite -->
